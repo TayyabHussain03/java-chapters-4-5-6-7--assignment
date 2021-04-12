@@ -72,6 +72,20 @@
 // var  j = 4*10
 // document.write(j)
 
+// *****TEMPERATURE CONVERSION*****
+
+// ***FARENHEIT TO CELSIUS***
+
+// var F = 25
+// var result = (F - 32)*5/9
+// document.write(result)
+
+//***CELSIUS TO FARENHEIT***
+
+// var C = 40
+// var result=(C * 9/5) + 32
+// document.write(result)
+
 
 
 
