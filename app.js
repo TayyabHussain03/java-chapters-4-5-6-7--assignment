@@ -1,4 +1,4 @@
-// **********CHAPTER 4-8 TASK**********
+// **********CHAPTER 5 TASK**********
 // MATH EXPRESSIONS
 
 // *****CALCULATION SECTION*****
@@ -19,4 +19,20 @@
 
 // var modulus = a % b
 // document.write(modulus)
+
+
+// *****INCREMENT and DECREMENT SECTION*****
+
+// var a = 5
+// var b = 7
+// var result = ++a + b
+// // document.write(result)
+// // document.write(--result)
+// document.write(result/3)
+
+
+
+
+
+
 
