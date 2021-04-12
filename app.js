@@ -30,8 +30,15 @@
 // // document.write(--result)
 // document.write(result/3)
 
+// *****MOVIE TICKET*****
 
+// cost of 1 movie ticket = a
+// var a = 600
 
+// cost of 5 movie ticket = b
+// var b = a*5
+
+// document.write(b)
 
 
 
