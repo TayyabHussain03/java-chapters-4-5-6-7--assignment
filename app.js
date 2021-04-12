@@ -40,6 +40,38 @@
 
 // document.write(b)
 
+// *****TABLE OF 4 *****
+
+// var  a = 4*1
+// document.write(a)
+
+// var  b = 4*2
+// document.write(b)
+
+// var  c = 4*3
+// document.write(c)
+
+// var  d = 4*4
+// document.write(d)
+
+// var  e = 4*5
+// document.write(e)
+
+// var  f = 4*6
+// document.write(f)
+
+// var  g = 4*7
+// document.write(g)
+
+// var  h = 4*8
+// document.write(h)
+
+// var  i = 4*9
+// document.write(i)
+
+// var  j = 4*10
+// document.write(j)
+
 
 
 
