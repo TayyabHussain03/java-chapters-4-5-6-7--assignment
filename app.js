@@ -126,6 +126,20 @@
 // var age = CurrentYear - Birthyear
 // document.write(age)
 
+// *****THE GEOMETRIZER*****
+
+// var radius = 32
+// var circumference = 2 * 3.142 * radius
+// document.write(circumference)
+
+// var area = 3.142 * (32*32)
+// document.write(area)
+
+
+
+
+
+
 
 
 
