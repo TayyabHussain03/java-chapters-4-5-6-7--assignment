@@ -86,6 +86,30 @@
 // var result=(C * 9/5) + 32
 // document.write(result)
 
+// *****SHOPPING CART*****
+
+// var PriceOfItem1 = 650
+// var QuantityOfItem1 = 3
+
+// var PriceOfItem2 = 100
+// var QuantityOfItem2 = 7
+
+// var ShippingCharges = 100
+
+// var TotalCost = (PriceOfItem1 * QuantityOfItem1) + (PriceOfItem2 * QuantityOfItem2) + ShippingCharges
+
+// document.write(TotalCost)
+
+// *****MARKS SHEET*****
+
+// var TotalMarks = 500
+// var Obtainedmarks = 390
+// var result = (Obtainedmarks/TotalMarks)*100
+
+// document.write(result)
+
+
+
 
 
 
