@@ -119,6 +119,13 @@
 // var totalCurrency = UsConversion + RiyalConversion
 // document.write(totalCurrency)
 
+// *****AGE CALCULATOR*****
+
+// var Birthyear = 2003
+// var CurrentYear = 2021
+// var age = CurrentYear - Birthyear
+// document.write(age)
+
 
 
 
