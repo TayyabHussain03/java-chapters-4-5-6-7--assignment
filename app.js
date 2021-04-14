@@ -135,6 +135,18 @@
 // var area = 3.142 * (32*32)
 // document.write(area)
 
+// *****LIFETIME SUPPLY CALCULATOR*****
+
+// document.write(DairyMilk)
+
+// var currentAge = 18
+// var maximumAge = 85
+// var needChocolate = maximumAge - currentAge
+// var eatPerday = 5
+// var needChocolateInLife = eatPerday * needChocolate
+
+// document.write(needChocolateInLife)
+
 
 
 
