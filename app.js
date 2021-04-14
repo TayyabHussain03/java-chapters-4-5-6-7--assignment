@@ -149,6 +149,37 @@
 
 
 
+// **********CHAPTER 4-8 TASK**********
+
+// var a = 10
+// var result = ++a + a++ + --a + a--
+// document.write(result)
+
+// var a = 2
+// var b = 1
+// var result = --a - --b + ++b + b--
+//             //   1  -  0  +   1  + 1
+// document.write(result)
+
+// *****REPORT CARD*****
+
+var totalMarksSub1 = 100
+var totalMarksSub2 = 100
+var totalMarksSub3 = 100
+
+var Sub1 = 68
+var Sub2 = 89
+var Sub3 = 92
+
+var result1 = (Sub1/totalMarksSub1) *100
+var result2 = (Sub2/totalMarksSub2) *100
+var result3 = (Sub3/totalMarksSub3) *100
+
+var totalPercentage = (Sub1 + Sub2 + Sub3)/300 * 100
+document.write(totalPercentage)
+
+
+
 
 
 
