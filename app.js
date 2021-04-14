@@ -108,6 +108,17 @@
 
 // document.write(result)
 
+// *****CURRENCY CONVERSION*****
+
+// var OneUsDollar = 104.80
+// var UsConversion = OneUsDollar * 10
+
+// var OneRiyal = 28
+// var RiyalConversion = OneRiyal * 25
+
+// var totalCurrency = UsConversion + RiyalConversion
+// document.write(totalCurrency)
+
 
 
 
